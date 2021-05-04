@@ -277,7 +277,6 @@ int main(int argc, char *argv[])
   double init_u = 1.0;
   double init_v = 1.0;
   double init_p = 0.0;
-
   double boundary_u = 100.0;
 
   U* u = NULL;
